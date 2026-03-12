@@ -1,6 +1,6 @@
 ﻿// Crear una función que reciba la base y la altura de un rectángulo y devuelva su área.
 
-Double Area(int Base, int Altura)
+double Area(int Base, int Altura)
 {
     return Base * Altura;
 }
