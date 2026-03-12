@@ -20,6 +20,6 @@ Console.WriteLine("Ingrese la cantidad de productos comprados");
 int productos = int.Parse(Console.ReadLine());
 
 double total = TotalFactura(productos);
-Console.WriteLine("El total de la fractura es = "+ total);
+Console.WriteLine("El total de la factura es = "+ total);
 
 
