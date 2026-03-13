@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Crear un procedimiento que solicite el precio de un producto y muestre el precio con un descuento del 10%.
+
+ 
