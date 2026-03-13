@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Crear un procedimiento que solicite el número de estudiantes de un curso y muestre un mensaje indicando cuántos estudiantes hay en la clase.
