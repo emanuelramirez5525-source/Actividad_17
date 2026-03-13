@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Crear un procedimiento que solicite el radio de un círculo y muestre el área del círculo.
