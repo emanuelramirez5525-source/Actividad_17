@@ -9,4 +9,4 @@ void AreaCirculo(double radio)
 Console.WriteLine("Ingrese el radio de un circulo");
 double radio = double.Parse(Console.ReadLine());
 
-AreaCirculo(radio);
+AreaCirculo(radio);  
