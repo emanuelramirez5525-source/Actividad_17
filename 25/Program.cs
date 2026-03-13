@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Crear un procedimiento que solicite la base y la altura de un rectángulo y muestre su área.
